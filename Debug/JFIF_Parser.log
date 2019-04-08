@@ -1,0 +1,5 @@
+﻿  JFIF_Parser.cpp
+c:\users\deithdhu\source\repos\jfif-parser\jfif_parser.cpp(32): warning C4244: "argument": konwersja z "std::streamoff" do "const unsigned int", możliwa utrata danych
+c:\users\deithdhu\source\repos\jfif-parser\jfif_parser.cpp(110): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\deithdhu\source\repos\jfif-parser\jfif_parser.cpp(116): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  JFIF_Parser.vcxproj -> C:\Users\DeithDhu\source\repos\JFIF-Parser\Debug\JFIF_Parser.exe
