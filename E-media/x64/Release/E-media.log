@@ -1,0 +1,11 @@
+﻿  E-media.cpp
+C:\Users\DeithDhu\source\repos\JFIF-Parser\E-media\E-media.cpp(149): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\DeithDhu\source\repos\JFIF-Parser\E-media\E-media.cpp(155): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\DeithDhu\source\repos\JFIF-Parser\E-media\E-media.cpp(298): warning C4244: "=": konwersja z "long double" do "long", możliwa utrata danych
+C:\Users\DeithDhu\source\repos\JFIF-Parser\E-media\E-media.cpp(312): warning C4244: "=": konwersja z "long double" do "long", możliwa utrata danych
+C:\Users\DeithDhu\source\repos\JFIF-Parser\E-media\E-media.cpp(231): warning C4101: "count": lokalna zmienna, do której nie istnieje odwołanie
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 486 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  E-media.vcxproj -> C:\Users\DeithDhu\source\repos\JFIF-Parser\x64\Release\E-media.exe
