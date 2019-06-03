@@ -1,9 +1,0 @@
-﻿  stdafx.cpp
-  JFIF_Parser.cpp
-c:\users\deithdhu\source\repos\jfif-parser\jfif_parser.cpp(41): warning C4244: "argument": konwersja z "std::streamoff" do "const unsigned int", możliwa utrata danych
-c:\users\deithdhu\source\repos\jfif-parser\jfif_parser.cpp(121): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
-c:\users\deithdhu\source\repos\jfif-parser\jfif_parser.cpp(127): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
-  Trwa generowanie kodu
-  All 419 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Zakończono generowanie kodu
-  JFIF_Parser.vcxproj -> C:\Users\DeithDhu\source\repos\JFIF-Parser\Release\JFIF_Parser.exe

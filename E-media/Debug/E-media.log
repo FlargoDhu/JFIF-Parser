@@ -1,0 +1,8 @@
+﻿  E-media.cpp
+C:\Users\DeithDhu\source\repos\E-media\E-media\E-media.cpp(44): warning C4244: "argument": konwersja z "std::streamoff" do "const unsigned int", możliwa utrata danych
+C:\Users\DeithDhu\source\repos\E-media\E-media\E-media.cpp(149): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\DeithDhu\source\repos\E-media\E-media\E-media.cpp(155): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\DeithDhu\source\repos\E-media\E-media\E-media.cpp(298): warning C4244: "=": konwersja z "long double" do "long", możliwa utrata danych
+C:\Users\DeithDhu\source\repos\E-media\E-media\E-media.cpp(312): warning C4244: "=": konwersja z "long double" do "long", możliwa utrata danych
+C:\Users\DeithDhu\source\repos\E-media\E-media\E-media.cpp(231): warning C4101: "count": lokalna zmienna, do której nie istnieje odwołanie
+  E-media.vcxproj -> C:\Users\DeithDhu\source\repos\E-media\Debug\E-media.exe
